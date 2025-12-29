@@ -9,7 +9,7 @@ import pandas as pd
 import datetime
 import time
 import tkinter.font as font
-import pyttsx3
+#import pyttsx3
 
 # project module
 import show_attendance
